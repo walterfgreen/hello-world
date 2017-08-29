@@ -1,2 +1,5 @@
 # hello-world
-Fun time!
+
+Greetings!
+
+This is a fun little exercise.
